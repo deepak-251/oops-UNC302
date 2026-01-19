@@ -1,5 +1,4 @@
 # oops-UNC302
-Assignments
-Deepak Kumar
-1024150071
-2O13
+Name: Deepak Kumar
+Roll.No: 1024150071
+Batch: 2O13 ENC
